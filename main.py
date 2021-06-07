@@ -49,10 +49,10 @@ white = (255, 255, 255)
 
 scaler = 10
 offset = 0
-fps = 120
+fps = 60
 
-seconds = 10
-frames = 120
+seconds = 3
+frames = 60
 
 Grid = grid.Grid(width,height, scaler, offset)
 
@@ -89,5 +89,4 @@ for path in pathlib.Path("images").iterdir():
         count += 1
 
 print(count)
-#gif_maker()
-gif_maker2(count)
+gif_maker2(count/2)
