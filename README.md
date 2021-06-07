@@ -10,6 +10,6 @@ First it will run the program and then will generate a gif of the output.
 
 
 
-This particular example demontrates a glider:
+This particular example demonstrates a glider:
 
 ![gevzvieb](https://user-images.githubusercontent.com/29146438/121021618-3dcaca00-c7aa-11eb-8ac7-0d0a39633c03.gif)
