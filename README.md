@@ -1,8 +1,10 @@
 # Conway-s-Game-of-Life
 Conway's Game of Life
+
 More info: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 Usage: python main.py
+
 First it will run the program and then will generate a gif of the output.
 
 
