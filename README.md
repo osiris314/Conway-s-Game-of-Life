@@ -8,4 +8,4 @@ First it will run the program and then will generate a gif of the output.
 
 This particular example demontrates a glider:
 
-![iogyifgc (1)](https://user-images.githubusercontent.com/29146438/121018462-22aa8b00-c7a7-11eb-9a88-8d75c1d0c036.gif)
+![gevzvieb](https://user-images.githubusercontent.com/29146438/121021618-3dcaca00-c7aa-11eb-8ac7-0d0a39633c03.gif)
